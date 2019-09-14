@@ -1,4 +1,4 @@
-# TevoTarantulaProFirmware
+# Tevo Tarantula Pro Firmware
 The entire code in this master branch is the original codes written or modified by Tevo for Tarantula Pro. I will keep this master branch as much as possible updated everytime Tevo releases a new firmware for Tarantula Pro. You can also visit the actual branch for Tarantula Pro in Tevo repositories. https://github.com/tevo3d/Tarantula-pro
 
 # BUGS
